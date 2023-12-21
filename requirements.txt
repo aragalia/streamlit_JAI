@@ -111,13 +111,7 @@ tenacity==8.2.3
 tensorboard==2.15.1
 tensorboard-data-server==0.7.2
 tensorflow==2.15.0
-tensorflow-decision-forests==1.8.1
-tensorflow-estimator==2.15.0
-tensorflow-hub==0.15.0
-tensorflow
-tensorflow-io-gcs-filesystem==0.31.0
-tensorflowjs==4.14.0
-tensorstore==0.1.45
+
 termcolor==2.3.0
 tf2onnx==1.15.1
 thop==0.1.1.post2209072238
