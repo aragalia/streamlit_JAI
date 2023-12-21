@@ -10,7 +10,7 @@ import av
 st.title("Deteksi Kualitas Kematangan pada buah Jeruk")
 st.markdown('silahkan klik "START" untuk memulai webcam dan klik "STOP" untuk mengakhiri webcam')
 
-torch.hub._validate_not_a_forked_repo=lambda a,b,c: True
+
 model = torch.hub.load('ultralytics/yolov5', 'custom', 'best.pt')
 
   
