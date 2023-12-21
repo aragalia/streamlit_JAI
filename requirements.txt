@@ -2,7 +2,7 @@ streamlit==1.29.0
 streamlit-aggrid==0.3.4.post3
 streamlit-webrtc==0.47.1
 numpy==1.26.2
-opencv-python-headless
+opencv-python-headless==4.8.0
 torch==2.1.1
 torchaudio==2.1.1
 torchvision==0.16.1
