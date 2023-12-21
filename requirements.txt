@@ -7,4 +7,4 @@ torch==2.1.1
 torchvision==0.16.1
 av==11.0.0
 ultralytics>=8.0.147
-Pillow==10.1.0
+Pillow==7.1.0
